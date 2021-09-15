@@ -2,5 +2,5 @@
 
   "greetingText": "16 September 2021",
   "wishText": "Wish you all the best....",
-  "imagePath": "img/viona.jpeg"
+  "imagePath": "./img/viona.jpeg",
 }
